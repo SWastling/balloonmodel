@@ -2,12 +2,12 @@
 
 ## Synopsis
 Simulate the haemodynamic response to brain activation, in 
-[MATLAB](www.mathworks.com) using the Balloon Model as described in Buxton 
+[MATLAB](https://www.mathworks.com) using the Balloon Model as described in Buxton 
 et. al. 1998 and 2004 
 
 ## Demonstration
 We can simulate the haemodynamic response to brain activation, in 
-[MATLAB](www.mathworks.com) using the Balloon Model as
+[MATLAB](https://www.mathworks.com) using the Balloon Model as
 shown in the [MATLAB demo](./demo.m) and described below:
 
 1. Generate a stimulus (s):
